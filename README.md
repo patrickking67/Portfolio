@@ -10,7 +10,7 @@
   
 ## Table of Contents
 - [About](#about)
-- [Programming Languages Used](#programming-languages-used)
+- [Technologies](#technologies-used)
 - [Future Plans](#future-plans)
 
 ## About
