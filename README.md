@@ -19,7 +19,7 @@ This is my personal portfolio website which has an about me, my education and sc
 ## Technologies Used
 - HTML
 - JavaScript
-- CSS
+- CSS & SCSS
 - Bootstrap
 - Animate
 - Flex
