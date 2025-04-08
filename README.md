@@ -1,6 +1,7 @@
 <div align="center">
 
 # Patrick King's Personal Portfolio
+### Last Updated January 2024
   
   ![HTML](https://img.shields.io/badge/-HTML-brightorange?logo=html&logoColor=white&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=grey&style=flat)
